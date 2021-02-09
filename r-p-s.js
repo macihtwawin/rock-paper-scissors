@@ -105,10 +105,9 @@ function compare() {
 //disables play button and opens the input buttons
 
 function playGame() {
-document.getElementById("plybtn").style.display = "none";
-document.getElementById("buttons").style.display = "block";
-document.getElementById("bot").innerHTML = "Player vs BOT";
-document.getElementById("points").style.display = "block";
-document.getElementById("result").innerHTML = "Ready!";
-    
+  document.getElementById("plybtn").style.display = "none";
+  document.getElementById("buttons").style.display = "block";
+  document.getElementById("bot").innerHTML = "Player vs BOT";
+  document.getElementById("points").style.display = "block";
+  document.getElementById("result").innerHTML = "Ready!";
 }
