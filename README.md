@@ -1,2 +1,2 @@
 # rock-paper-scissors
-very bad
+my horrible, lazy styling
